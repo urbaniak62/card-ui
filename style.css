@@ -80,7 +80,7 @@ h3{
     display: -webkit-inline-box;
 }
 .info ul{
-    margin: 0;
+    margin: -5px;
     padding: 0;
     display: flex;
 } 
